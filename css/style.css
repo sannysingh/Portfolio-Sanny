@@ -528,38 +528,40 @@ img{
     width: 80%;
 }
 .skills__js{
-    width: 60%;
+    width: 50%;
 }
 .skills__react{
     width: 10%;
 }
 
 /* skill 2 */
-.skills__php{
-    width: 90%;
-}
-.skills__node{
-    width: 80%;
-}
 .skills__python{
-    width: 60%;
+    width: 70%;
 }
-.skills__firebase{
-    width: 10%;
+
+.skills__sql{
+    width: 70%;
+}
+.skills__ml{
+    width: 50%;
+}
+
+.skills__ds{
+    width: 40%;
 }
 
 /* skill 3 */
 .skills__photoshop{
-    width: 90%;
-}
-.skills__illustrator{
     width: 80%;
 }
+.skills__illustrator{
+    width: 70%;
+}
 .skills__aftereffects{
-    width: 60%;
+    width: 50%;
 }
 .skills__xd{
-    width: 10%;
+    width: 20%;
 }
 
 .skills__close .skills__list{
